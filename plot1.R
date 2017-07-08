@@ -1,13 +1,10 @@
 
 # --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
 #
-#                        Global Variables
+#                        Plot 1
 #
 # --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
 
-
-# dir_proj_working <- 'C:/work/R/course4_week1_ExData_plotting/ExData_Plotting1'
-# data_dir <- 'c:/temp/week1'
 
 cwd <- getSrcDirectory(function(x) {x})
 if ( nchar(cwd) < 1 ){
